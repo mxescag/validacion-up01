@@ -30,6 +30,10 @@ https://github.com/mxescag/validacion-up01
 
 Aquí está el [enlace](https://mxescag.github.io/validacion-up01/) a la página generada.
 
+![Captura inicio](inicio.png)
+![Captura instalación](instalacion.png)
+![Captura uso](uso.png)
+
 En esta rama, creada y gestionada automáticamente por Mkdocs, se actualizará y se publicarán los cambios en la documentación y la página web generada.
 
 ---
